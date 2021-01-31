@@ -1,6 +1,0 @@
-## Ignore temporary files, build results
-
-.idea/misc.xml
-.idea/modules.xml
-.idea/python.iml
-.idea/workspace.xml
